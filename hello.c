@@ -1,10 +1,6 @@
-#include<stdio.h>
-#include<string.h>
+#include <stdio.h>
 int main()
-{char s[101];
-scanf("%s", s);
-printf("Hello %s !!", s);
+{
+printf("Hello, Word!"\n);
 return 0;
 }
-
-
